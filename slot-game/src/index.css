@@ -1,0 +1,7 @@
+body{
+    background-image: url('../src/assets/bikini.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
