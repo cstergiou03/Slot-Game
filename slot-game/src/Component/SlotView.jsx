@@ -40,7 +40,7 @@ function SlotView(){
             }, 1000);
 
             return () => clearTimeout(timeoutId);
-        }
+        } 
 
     }, [refresh]);
 
